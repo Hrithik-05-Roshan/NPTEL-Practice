@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>MCQ Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>MCQ Practice</h1>
+
+        <div class="top-bar">
+            <select id="weekSelector" onchange="loadWeek()">
+                <option value="">Select Week</option>
+                <script>
+                    for (let i = 1; i <= 12; i++) {
+                        document.write(`<option value="${i}">Week ${i}</option>`);
+                    }
+                </script>
+            </select>
+
+            <div id="progressText">0 / 0</div>
+        </div>
+
+        <div class="progress-bar">
+            <div id="progressFill"></div>
+        </div>
+
+        <div id="quizContainer"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
