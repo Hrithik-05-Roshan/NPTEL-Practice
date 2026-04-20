@@ -1,6 +1,10 @@
-# 📚 NPTEL Principles of Management – MCQ Assignment Bank
+🚀 A centralized platform for practicing **week-wise MCQ assignments (Week 1–12)** of the NPTEL *Principles of Management* course — built for fast revision, accuracy, and exam-focused preparation.
 
-A curated collection of **MCQ-based assignment questions** from the **NPTEL Principles of Management** course, covering **Week 1 to Week 12**.
+---
+
+# 📚 NPTEL Principles of Management – Practice Hub
+
+🚀 A centralized platform for practicing **week-wise MCQ assignments (Week 1–12)** of the NPTEL *Principles of Management* course — built for fast revision, accuracy, and exam-focused preparation.
 
 ---
 
